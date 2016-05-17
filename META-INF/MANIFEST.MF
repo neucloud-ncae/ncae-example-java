@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Application
+Class-Path: lib/jetty-all-7.0.2.v20100331.jar lib/servlet-api-2.5.jar
+
